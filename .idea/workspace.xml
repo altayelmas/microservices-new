@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e63ee7b-61ab-4b1b-8f47-aa6e93bdeb48" name="Changes" comment="project rebased" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/barcode-service" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;altayelmas&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/altayelmas/barcode.git&quot;,
+    &quot;accountId&quot;: &quot;1b762cbc-6819-4dc0-86b4-4d9b0bf5a5e6&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2k67yXs5g1saIKe8SZDuOfVVxTP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.All in barcode-service.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.createBarcodeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.createBarcodeTest_shouldReturnEmptyBarcodeResponseDto_whenHttpClientErrorIsThrown.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.createBarcodeTest_shouldThrowInputMismatchException_whenProductCategoryIsBa_andBarcodeTypeIsNotProduct.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.createBarcodeTest_shouldThrowInputMismatchException_whenProductCategoryIsBl_andProductUnitIsKilogram_andBarcodeTypeIsRegister.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.createBarcodeTest_shouldThrowInputMismatchException_whenProductCategoryIsBl_andProductUnitIsPiece_andBarcodeTypeIsNotRegister.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.createBarcodeTest_shouldThrowInputMismatchException_whenProductCategoryIsBl_andProductUnitIsPiece_andBarcodeTypeIsRegister.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.createBarcodeTest_shouldThrowInputMismatchException_whenProductCategoryIsEt_andBarcodeTypeIsNotScale.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.createBarcodeTest_shouldThrowInputMismatchException_whenProductCategoryIsIc_andBarcodeTypeIsNotProduct.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.createBarcodeTest_shouldThrowInputMismatchException_whenProductCategoryIsMe_andProductUnitIsKilogram_andBarcodeTypeIsScale.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.createBarcodeTest_whenProductCategoryIsBa_andProductUnitIsKilogram_andBarcodeTypeIsProduct.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.createBarcodeTest_whenProductCategoryIsBl_andProductUnitIsKilogram_andBarcodeTypeIsProduct.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.createBarcodeTest_whenProductCategoryIsBl_andProductUnitIsKilogram_andBarcodeTypeIsScale.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.createBarcodeTest_whenProductCategoryIsBl_andProductUnitIsPiece_andBarcodeTypeIsProduct.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.createBarcodeTest_whenProductCategoryIsBl_andProductUnitIsPiece_andBarcodeTypeIsRegister.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.createBarcodeTest_whenProductCategoryIsEt_andProductUnitIsKilogram_andBarcodeTypeIsScale.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.createBarcodeTest_whenProductCategoryIsEt_andProductUnitIsPiece_andBarcodeTypeIsScale.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.createBarcodeTest_whenProductCategoryIsIc_andProductUnitIsKilogram_andBarcodeTypeIsProduct.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.createBarcodeTest_whenProductCategoryIsMe_andProductUnitIsKilogram_andBarcodeTypeIsProduct.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.createBarcodeTest_whenProductCategoryIsMe_andProductUnitIsKilogram_andBarcodeTypeIsRegister.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.createBarcodeTest_whenProductCategoryIsMe_andProductUnitIsPiece_andBarcodeTypeIsProduct.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.deleteBarcodeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.deleteBarcodeTest_shouldThrowBarcodeNotFoundException_whenBarcodeNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.getAllTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceImplTest.getAllTest_shouldThrowBarcodeNotFoundException_whenBarcodeNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BarcodeServiceTest.createBarcodeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProductServiceImplTest.createProductTest_shouldThrowInputMismatchException_whenProductCodeHasMoreThanThreeDigits.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProductServiceImplTest.createProductTest_shouldThrowProductAlreadyExistsException_whenProductAlreadyExists.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProductServiceImplTest.deleteProductTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProductServiceImplTest.deleteProductTest_shouldThrowProductNotFoundException_whenProductNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProductServiceImplTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.ProductServiceImplTest.getProductTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProductServiceImplTest.getProductTest_shouldThrowProductNotFoundException_whenProductNotFound.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.category-service [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.category-service [install].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.BarcodeApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.CategoryServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.ProductServiceApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/aelmas/IdeaProjects/microservices-parent&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.app.productservice.model.dto" />
+      <recent name="com.app.productservice.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.app.productservice.generator" />
+      <recent name="com.app.barcode.model.dto" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Compound.Compound">
+    <configuration name="Compound" type="CompoundRunConfigurationType">
+      <toRun name="BarcodeApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="CategoryServiceApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="ProductServiceApplication" type="SpringBootApplicationConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ProductServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.app.productservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.app.productservice.service" />
+      <option name="MAIN_CLASS_NAME" value="com.app.productservice.service.ProductServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceImplTest.createProductTest_shouldThrowInputMismatchException_whenProductCodeHasMoreThanThreeDigits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.app.productservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.app.productservice.service" />
+      <option name="MAIN_CLASS_NAME" value="com.app.productservice.service.ProductServiceImplTest" />
+      <option name="METHOD_NAME" value="createProductTest_shouldThrowInputMismatchException_whenProductCodeHasMoreThanThreeDigits" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceImplTest.createProductTest_shouldThrowProductAlreadyExistsException_whenProductAlreadyExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.app.productservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.app.productservice.service" />
+      <option name="MAIN_CLASS_NAME" value="com.app.productservice.service.ProductServiceImplTest" />
+      <option name="METHOD_NAME" value="createProductTest_shouldThrowProductAlreadyExistsException_whenProductAlreadyExists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceImplTest.deleteProductTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.app.productservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.app.productservice.service" />
+      <option name="MAIN_CLASS_NAME" value="com.app.productservice.service.ProductServiceImplTest" />
+      <option name="METHOD_NAME" value="deleteProductTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceImplTest.getProductTest_shouldThrowProductNotFoundException_whenProductNotFound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.app.productservice.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.app.productservice.service" />
+      <option name="MAIN_CLASS_NAME" value="com.app.productservice.service.ProductServiceImplTest" />
+      <option name="METHOD_NAME" value="getProductTest_shouldThrowProductNotFoundException_whenProductNotFound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BarcodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="barcode-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.app.barcode.BarcodeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="category-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.app.categoryservice.CategoryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="product-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.app.productservice.ProductServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Compound.Compound" />
+      <item itemvalue="JUnit.ProductServiceImplTest" />
+      <item itemvalue="JUnit.ProductServiceImplTest.createProductTest_shouldThrowInputMismatchException_whenProductCodeHasMoreThanThreeDigits" />
+      <item itemvalue="JUnit.ProductServiceImplTest.createProductTest_shouldThrowProductAlreadyExistsException_whenProductAlreadyExists" />
+      <item itemvalue="JUnit.ProductServiceImplTest.deleteProductTest" />
+      <item itemvalue="JUnit.ProductServiceImplTest.getProductTest_shouldThrowProductNotFoundException_whenProductNotFound" />
+      <item itemvalue="Spring Boot.BarcodeApplication" />
+      <item itemvalue="Spring Boot.CategoryServiceApplication" />
+      <item itemvalue="Spring Boot.ProductServiceApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductServiceImplTest.createProductTest_shouldThrowProductAlreadyExistsException_whenProductAlreadyExists" />
+        <item itemvalue="JUnit.ProductServiceImplTest.createProductTest_shouldThrowInputMismatchException_whenProductCodeHasMoreThanThreeDigits" />
+        <item itemvalue="JUnit.ProductServiceImplTest" />
+        <item itemvalue="JUnit.ProductServiceImplTest.getProductTest_shouldThrowProductNotFoundException_whenProductNotFound" />
+        <item itemvalue="JUnit.ProductServiceImplTest.deleteProductTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e63ee7b-61ab-4b1b-8f47-aa6e93bdeb48" name="Changes" comment="" />
+      <created>1722592427919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722592427919</updated>
+      <workItem from="1722592428925" duration="1549000" />
+      <workItem from="1722594284316" duration="556000" />
+      <workItem from="1722594945706" duration="121000" />
+      <workItem from="1722595441418" duration="9000" />
+      <workItem from="1722595501082" duration="15000" />
+      <workItem from="1722595602839" duration="18000" />
+      <workItem from="1722595638639" duration="12000" />
+      <workItem from="1722595721798" duration="5981000" />
+      <workItem from="1722753392633" duration="6449000" />
+      <workItem from="1722835905107" duration="15434000" />
+      <workItem from="1722938721258" duration="7262000" />
+      <workItem from="1723008979438" duration="17758000" />
+      <workItem from="1723094714576" duration="14572000" />
+      <workItem from="1723183954947" duration="14676000" />
+      <workItem from="1723275690973" duration="846000" />
+      <workItem from="1723359317206" duration="8736000" />
+      <workItem from="1723441366199" duration="12579000" />
+      <workItem from="1723524653750" duration="5957000" />
+      <workItem from="1723546057389" duration="426000" />
+      <workItem from="1723546863115" duration="925000" />
+      <workItem from="1723548052783" duration="25000" />
+      <workItem from="1723548102177" duration="16000" />
+      <workItem from="1723548121142" duration="98000" />
+      <workItem from="1723548236448" duration="38000" />
+    </task>
+    <task id="LOCAL-00001" summary="barcode-service implementation">
+      <option name="closed" value="true" />
+      <created>1722940278219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722940278219</updated>
+    </task>
+    <task id="LOCAL-00002" summary="barcode-service implementation">
+      <option name="closed" value="true" />
+      <created>1722941775782</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722941775782</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gitignore changed">
+      <option name="closed" value="true" />
+      <created>1722942136729</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722942136729</updated>
+    </task>
+    <task id="LOCAL-00004" summary="project rebased">
+      <option name="closed" value="true" />
+      <created>1722942255558</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722942255558</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="barcode-service implementation" />
+    <MESSAGE value="gitignore changed" />
+    <MESSAGE value="project rebased" />
+    <option name="LAST_COMMIT_MESSAGE" value="project rebased" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/microservices_parent$ProductServiceImplTest.ic" NAME="ProductServiceImplTest Coverage Results" MODIFIED="1723449545444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.app.productservice.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/microservices_parent$BarcodeServiceImplTest_createBarcodeTest_whenProductCategoryIsBl_andProductUnitIsPiece_andBarcodeTypeIsRegister.ic" NAME="BarcodeServiceImplTest.createBarcodeTest_whenProductCategoryIsBl_andProductUnitIsPiece_andBarcodeTypeIsRegister Coverage Results" MODIFIED="1723105071947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.app.barcode.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/microservices_parent$BarcodeServiceImplTest_getAllTest_shouldThrowBarcodeNotFoundException_whenBarcodeNotFound.ic" NAME="BarcodeServiceImplTest.getAllTest_shouldThrowBarcodeNotFoundException_whenBarcodeNotFound Coverage Results" MODIFIED="1723116830211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.app.barcode.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/microservices_parent$BarcodeServiceImplTest.ic" NAME="BarcodeServiceImplTest Coverage Results" MODIFIED="1723380147732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.app.barcode.service.*</FILTER>
+    </SUITE>
+  </component>
+</project>
